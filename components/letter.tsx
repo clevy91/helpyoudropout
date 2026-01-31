@@ -17,8 +17,8 @@ export function Letter() {
           </p>
         </div>
         
-        <p className="mt-8 md:mt-12 font-black text-4xl md:text-5xl lg:text-6xl tracking-tight">
-  {"-<insert your name here>"}
+        <p className="mt-8 md:mt-12 font-black text-2xl md:text-3xl lg:text-4xl tracking-tight">
+          {"-<insert your name here>"}
         </p>
       </div>
     </section>
