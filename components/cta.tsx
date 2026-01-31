@@ -5,7 +5,6 @@ export function CTA() {
     <section className="px-6 md:px-12 lg:px-24 py-12 md:py-16">
       <div className="max-w-4xl">
 <h2 className="font-black text-2xl md:text-3xl leading-[1] tracking-tight mb-3">
-  <span className="block">Thinking about dropping out?</span>
 </h2>
 
 
