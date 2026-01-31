@@ -33,19 +33,19 @@ export function CTA() {
     </ol>
   </div>
 
-  <div className="mt-8 flex flex-wrap gap-4">
+  <div className="mt-8 flex flex-wrap gap-3">
     <a 
       href={`sms:+16505059984&body=1.%20What%20are%20you%20working%20on%20now%3F%0A%0A2.%20What%20cool%20stuff%20have%20you%20worked%20on%20in%20the%20past%3F%0A%0A3.%20Links%20about%20you%20and%2For%20accomplishments%3A`}
-      className="group inline-flex items-center gap-2 bg-foreground text-background font-medium text-sm tracking-wide px-5 py-2.5 rounded-lg shadow-sm hover:shadow-md hover:-translate-y-0.5 active:translate-y-0 transition-all duration-150"
+      className="inline-flex items-center gap-2 bg-white text-foreground border border-neutral-300 font-medium text-sm px-5 py-2.5 rounded-lg hover:border-neutral-400 hover:bg-neutral-50 transition-colors duration-150"
     >
-      <MessageSquare className="w-4 h-4 opacity-70 group-hover:opacity-100 transition-opacity" />
+      <MessageSquare className="w-4 h-4" />
       Text Me
     </a>
     <a 
       href={`mailto:cory@helpyoudropout.com?subject=Help%20Me%20Dropout&body=1.%20What%20are%20you%20working%20on%20now%3F%0A%0A%0A2.%20What%20cool%20stuff%20have%20you%20worked%20on%20in%20the%20past%3F%0A%0A%0A3.%20Links%20about%20you%20and%2For%20accomplishments%3A%0A`}
-      className="group inline-flex items-center gap-2 bg-foreground text-background font-medium text-sm tracking-wide px-5 py-2.5 rounded-lg shadow-sm hover:shadow-md hover:-translate-y-0.5 active:translate-y-0 transition-all duration-150"
+      className="inline-flex items-center gap-2 bg-white text-foreground border border-neutral-300 font-medium text-sm px-5 py-2.5 rounded-lg hover:border-neutral-400 hover:bg-neutral-50 transition-colors duration-150"
     >
-      <Mail className="w-4 h-4 opacity-70 group-hover:opacity-100 transition-opacity" />
+      <Mail className="w-4 h-4" />
       Email Me
     </a>
   </div>
