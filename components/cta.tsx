@@ -55,7 +55,7 @@ export function CTA() {
   </p>
 
   <p className="mt-8 font-black text-xl tracking-tight">
-    — Cory Levy
+    -Cory Levy
   </p>
 </section>
 
