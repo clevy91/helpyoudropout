@@ -50,8 +50,12 @@ export function CTA() {
     </a>
   </div>
 
-  <p className="mt-3 text-sm text-neutral-500">
-    I'll do my best to reply within 24 hours. If it’s a fit, we’ll do a 10-min call.
+<p className="mt-3 text-sm text-neutral-500">
+    I'll do my best to reply within 24 hours. If it's a fit, we'll do a 10-min call.
+  </p>
+
+  <p className="mt-8 font-black text-xl tracking-tight">
+    — Cory Levy
   </p>
 </section>
 
