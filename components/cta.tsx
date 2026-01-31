@@ -8,7 +8,7 @@ export function CTA() {
   <span className="block">Debating whether to drop out? Need help with your parents? </span>
 </h2>
 <p className="font-medium text-sm md:text-base text-foreground/70 leading-relaxed mb-6">
-          My name is Cory Levy, and I dropped out of studying CS at UIUC after my freshman year. I'll try my best to jam on this with you. If it's helpful, I can also connect you and your parents with founders who did the same thing. They are currently in their teens or twenties, dropped out, and are now running billion+ dollar companies. I work with and have invested in 7 of these founders (and many others on their way to building billion+ dollar companies).   Send me answers to the questions below.
+          My name is Cory Levy, and I dropped out of UIUC’s CS program after my freshman year. I'll try my best to jam on this with you. If it's helpful, I can also connect you and your parents with founders who did the same thing. They are currently in their teens or twenties, dropped out, and are now running billion+ dollar companies. I work with and have invested in 7 of these founders (and many others on their way to building billion+ dollar companies).   Send me answers to the questions below.
         </p>
 
         <div className="space-y-3 mb-8">
