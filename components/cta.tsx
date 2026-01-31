@@ -51,7 +51,7 @@ export function CTA() {
   </div>
 
   <p className="mt-3 text-sm text-neutral-500">
-    Short is fine. Clarity &gt; length.
+    I'll do my best to reply within 24 hours. If it’s a fit, we’ll do a 10-min call.
   </p>
 </section>
 
