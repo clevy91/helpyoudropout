@@ -8,7 +8,7 @@ export function CTA() {
   <span className="block">Debating whether to drop out? Need help with your parents? </span>
 </h2>
         <p className="font-medium text-base md:text-lg text-foreground/70 leading-relaxed mb-6">
-          I'll try my best to help jam on this topic. And if helpful... connect you and your parents with founders who did the same in their teens/20s and now run billion-dollar companies. I dropped out after freshman year at UIUC and work with 7 of them. Send me answers to the below questions.
+          I’ll try my best to jam on this with you. If it’s helpful, I can also connect you and your parents with founders who did the same thing. They are currently in their teens or twenties, dropped out, and are now running billion+ dollar companies. I work with and have invested in 7 of these founders (and many others on their way to building billion+ dollar companies).  I also dropped out of CS at UIUC after my freshman year. Send me answers to the questions below.
         </p>
 
         <div className="space-y-3 mb-8">
