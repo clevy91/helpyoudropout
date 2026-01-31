@@ -5,32 +5,67 @@ export function CTA() {
     <section className="px-6 md:px-12 lg:px-24 py-12 md:py-16">
       <div className="max-w-4xl">
 <h2 className="font-black text-2xl md:text-3xl leading-[1] tracking-tight mb-3">
-  <span className="block">Debating whether to drop out? Need help with your parents? </span>
+  <span className="block">Thinking about dropping out?</span>
 </h2>
-<p className="font-medium text-sm md:text-base text-foreground/70 leading-relaxed mb-6">
-          My name is Cory Levy, and I dropped out of UIUC’s CS program after my freshman year. I'll try my best to jam on this with you. If it's helpful, I can also connect you and your parents with founders who did the same thing. They are currently in their teens or twenties, dropped out, and are now running billion+ dollar companies. I work with and have invested in 7 of these founders (and many others on their way to building billion+ dollar companies).   Send me answers to the questions below.
-        </p>
+
+
+<section className="max-w-2xl">
+  <h1 className="text-4xl md:text-5xl font-black tracking-tight">
+    Thinking about dropping out?
+  </h1>
+
+  <p className="mt-4 text-lg md:text-xl leading-relaxed text-neutral-700">
+    Send me 3 answers. I’ll reply with thoughts — and if helpful, I’ll connect your parents with founders in their teens/20s running billion+ companies.
+  </p>
+
+  <ul className="mt-4 space-y-1 text-base md:text-lg text-neutral-700 leading-relaxed">
+    <li>• I dropped out of UIUC CS after freshman year.</li>
+    <li>• I work with and invested in 7 founders (teens/20s) running billion+ companies.</li>
+    <li>• I work with many others on their way there.</li>
+  </ul>
+
+  <div className="mt-8 space-y-4">
+    <h2 className="text-2xl font-black">Reply with:</h2>
+
+    <ol className="space-y-3 text-lg font-semibold">
+      <li>1) What are you working on now? <span className="font-normal text-neutral-600">(3–5 sentences)</span></li>
+      <li>2) What cool stuff have you worked on in the past? <span className="font-normal text-neutral-600">(3–5 sentences)</span></li>
+      <li>3) Links about you and/or accomplishments <span className="font-normal text-neutral-600">(X / LinkedIn / GitHub / site)</span></li>
+    </ol>
+  </div>
+
+  <div className="mt-8 flex flex-wrap gap-3">
+    <a className="inline-flex items-center gap-2 rounded-full px-6 py-3 text-base font-semibold bg-black text-white">
+      Text Me
+    </a>
+    <a className="inline-flex items-center gap-2 rounded-full px-6 py-3 text-base font-semibold border border-black/20 bg-white">
+      Email Me
+    </a>
+  </div>
+
+  <p className="mt-3 text-sm text-neutral-500">
+    Short is fine. Clarity &gt; length.
+  </p>
+</section>
+
 
         <div className="space-y-3 mb-8">
           <div>
             <h3 className="font-black text-lg md:text-xl tracking-tight">
               What are you working on now?
             </h3>
-            <p className="text-sm text-foreground/60">(max 5 sentences)</p>
           </div>
 
           <div>
             <h3 className="font-black text-lg md:text-xl tracking-tight">
               What cool stuff have you worked on in the past?
             </h3>
-            <p className="text-sm text-foreground/60">(max 5 sentences)</p>
           </div>
 
           <div>
             <h3 className="font-black text-lg md:text-xl tracking-tight">
               Links about you and/or accomplishments
             </h3>
-            <p className="text-sm text-foreground/60">Website, LinkedIn, and/or X</p>
           </div>
         </div>
 
