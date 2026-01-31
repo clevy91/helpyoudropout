@@ -37,14 +37,14 @@ export function CTA() {
   <div className="mt-8 flex flex-wrap gap-3">
     <a 
       href={`sms:+16505059984&body=1.%20What%20are%20you%20working%20on%20now%3F%0A%0A2.%20What%20cool%20stuff%20have%20you%20worked%20on%20in%20the%20past%3F%0A%0A3.%20Links%20about%20you%20and%2For%20accomplishments%3A`}
-      className="inline-flex items-center gap-2 rounded-full px-6 py-3 text-base font-semibold bg-black text-white hover:scale-105 transition-all duration-200"
+      className="inline-flex items-center gap-2.5 bg-white text-foreground border-2 border-foreground font-semibold text-base px-6 py-2.5 rounded-full hover:bg-foreground hover:text-background hover:scale-105 transition-all duration-200"
     >
       <MessageSquare className="w-4 h-4" />
       Text Me
     </a>
     <a 
       href={`mailto:cory@helpyoudropout.com?subject=Help%20Me%20Dropout&body=1.%20What%20are%20you%20working%20on%20now%3F%0A%0A%0A2.%20What%20cool%20stuff%20have%20you%20worked%20on%20in%20the%20past%3F%0A%0A%0A3.%20Links%20about%20you%20and%2For%20accomplishments%3A%0A`}
-      className="inline-flex items-center gap-2 rounded-full px-6 py-3 text-base font-semibold border border-black/20 bg-white hover:bg-black hover:text-white hover:scale-105 transition-all duration-200"
+      className="inline-flex items-center gap-2.5 bg-white text-foreground border-2 border-foreground font-semibold text-base px-6 py-2.5 rounded-full hover:bg-foreground hover:text-background hover:scale-105 transition-all duration-200"
     >
       <Mail className="w-4 h-4" />
       Email Me
