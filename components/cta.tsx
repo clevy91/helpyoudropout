@@ -4,11 +4,12 @@ export function CTA() {
   return (
     <section className="px-6 md:px-12 lg:px-24 py-12 md:py-16">
       <div className="max-w-4xl">
-        <h2 className="font-black text-2xl md:text-3xl leading-[1] tracking-tight mb-3">
-          Want help? Send me answers to the below questions.
-        </h2>
+<h2 className="font-black text-2xl md:text-3xl leading-[1] tracking-tight mb-3">
+  <span className="block">Debating whether to drop out? </span>
+  <span className="block">Need to convince your parents to let you drop out?</span>
+</h2>
         <p className="font-medium text-base md:text-lg text-foreground/70 leading-relaxed mb-6">
-          Debating whether to drop out? Need to convince your parents to let you drop out? I'll try my best to help jam on this topic. And if helpful... connect you and your parents with founders who did the same in their teens/20s and now run billion-dollar companies. I dropped out after freshman year at UIUC and work with 7 of them.
+          I'll try my best to help jam on this topic. And if helpful... connect you and your parents with founders who did the same in their teens/20s and now run billion-dollar companies. I dropped out after freshman year at UIUC and work with 7 of them. Send me answers to the below questions.
         </p>
 
         <div className="space-y-3 mb-8">
