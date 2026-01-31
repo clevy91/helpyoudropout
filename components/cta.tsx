@@ -6,7 +6,7 @@ export function CTA() {
       <div className="max-w-4xl">
 <h2 className="font-black text-2xl md:text-3xl leading-[1] tracking-tight mb-3">
   <span className="block">Debating whether to drop out? </span>
-  <span className="block">Need to convince your parents to let you drop out?</span>
+  <span className="block">Need help with your parents?</span>
 </h2>
         <p className="font-medium text-base md:text-lg text-foreground/70 leading-relaxed mb-6">
           I'll try my best to help jam on this topic. And if helpful... connect you and your parents with founders who did the same in their teens/20s and now run billion-dollar companies. I dropped out after freshman year at UIUC and work with 7 of them. Send me answers to the below questions.
