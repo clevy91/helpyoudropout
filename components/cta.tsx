@@ -55,7 +55,7 @@ export function CTA() {
   </p>
 
   <p className="mt-8 font-black text-xl tracking-tight">
-    -Cory Levy
+    -<a href="https://x.com/cory" target="_blank" rel="noopener noreferrer" className="hover:underline">Cory Levy</a>
   </p>
 </section>
 
