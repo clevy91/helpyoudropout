@@ -14,7 +14,7 @@ export function CTA() {
   </h1>
 
   <p className="mt-4 text-lg md:text-xl leading-relaxed text-neutral-700">
-    Send me 3 answers. I’ll reply with thoughts. And if helpful, I’ll connect your parents with founders in their teens/20s running billion+ companies.
+    Send me 3 answers. I’ll reply with thoughts. And if helpful, I’ll connect your parents with founders in their teens/20s running billion+ companies and with those founders’ parents too.
   </p>
 
   <ul className="mt-4 space-y-1 text-base md:text-lg text-neutral-700 leading-relaxed">

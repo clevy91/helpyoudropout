@@ -13,8 +13,8 @@ export function Letter() {
           </p>
           
           <p className="font-black text-3xl md:text-4xl lg:text-5xl leading-[1.1] tracking-tight">
-            I'd love you to talk to founders who did this who are in their teens/20s and now run billion-dollar companies.
-          </p>
+I’d love you to talk to founders who dropped out and are still in their teens or twenties, and now run billion dollar companies.
+You can also talk to the <em>their</em>  parents.          </p>
         </div>
         
 <p className="mt-10 text-lg md:text-xl font-medium italic tracking-normal text-black/80">
